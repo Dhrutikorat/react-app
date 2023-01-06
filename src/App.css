@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.blank {
+  color: gray;
+}
+nav{
+  background-color: lavender;
+}
+
+.nav-button {
+  border-color: blueviolet;
+  color: blueviolet;
+}
+.nav-button:hover {
+  background-color: blueviolet;
+  color: white;
+}
